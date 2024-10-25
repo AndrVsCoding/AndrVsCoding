@@ -44,7 +44,6 @@ Olá! Sou André Vitor, apaixonado pelo mundo da tecnologia e em constante busca
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?style=flat&logo=visual-studio&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white)
 
 ### Metodologias
 ![Scrum](https://img.shields.io/badge/Scrum-%230C7AD4.svg?style=flat&logo=scrumalliance&logoColor=white)
