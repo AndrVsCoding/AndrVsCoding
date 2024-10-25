@@ -1,6 +1,6 @@
 # 👋 Bem-vindo(a) ao GitHub de André Vitor
 
-Olá! Sou André Vitor, Técnico em Análise e Desenvolvimento de Sistemas, apaixonado pelo mundo da tecnologia e em constante busca de aprendizado e inovação. Atualmente, estudo **Análise e Desenvolvimento de Sistemas** na FACENS com uma bolsa integral. Além disso, sou aluno do programa **Infinity PRO da OneBitCode** e estudo inglês e alemão no **CCBEU**.
+Olá! Sou André Vitor, apaixonado pelo mundo da tecnologia e em constante busca de aprendizado e inovação. Atualmente, estudo **Análise e Desenvolvimento de Sistemas** na FACENS com uma bolsa integral. Além disso, sou aluno do programa **Infinity PRO da OneBitCode** e estudo inglês e alemão no **CCBEU**.
 
 ---
 
@@ -39,6 +39,12 @@ Olá! Sou André Vitor, Técnico em Análise e Desenvolvimento de Sistemas, apai
 
 ### Banco de Dados
 ![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=flat&logo=sqlite&logoColor=white)
+
+### Ferramentas de Desenvolvimento
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?style=flat&logo=visual-studio&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white)
 
 ### Metodologias
 ![Scrum](https://img.shields.io/badge/Scrum-%230C7AD4.svg?style=flat&logo=scrumalliance&logoColor=white)
