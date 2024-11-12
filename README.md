@@ -36,7 +36,7 @@ Com essa trajetória, busco expandir meu conhecimento e aplicar o que aprendo em
 
 ## 🌐 Conecte-se Comigo
 
-- [LinkedIn](www.linkedin.com/in/andrévsdias)
+- [LinkedIn](https://www.linkedin.com/in/andr%C3%A9vsdias/)
 - [GitHub](https://github.com/AndrVsCoding)
 - Email: salesdias1207@gmail.com
 
