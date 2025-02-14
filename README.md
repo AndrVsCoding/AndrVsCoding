@@ -1,30 +1,63 @@
 # 👋 Bem-vindo(a) ao GitHub de André Vitor
 
+Olá, sou **André Vitor**! Com uma sólida base em **Análise e Desenvolvimento de Sistemas**, minha jornada na tecnologia começou com um **curso técnico em Análise e Desenvolvimento de Sistemas** pela **ETEC**, e hoje estou finalizando minha **graduação em Análise e Desenvolvimento de Sistemas** pela **FACENS**, com **bolsa integral** pelo **ProUni**. Além disso, sou aluno do **Infinity PRO da OneBitCode** e da **Oracle Next Education**, e também estou aprimorando meu inglês no **CCBEU**.
 
-Aqui está uma versão mais simples e direta para seu README:
-
-👋 Bem-vindo(a) ao GitHub de André Vitor
-Olá! Sou André Vitor, com uma sólida formação em tecnologia e um constante desejo de evolução. Minha jornada começou com o curso técnico em Análise e Desenvolvimento de Sistemas pela ETEC, onde desenvolvi uma base forte em programação e sistemas.
-
-Atualmente, estou finalizando minha graduação em Análise e Desenvolvimento de Sistemas na FACENS, onde conquistei uma bolsa integral de estudos. Além disso, sou aluno do programa Infinity PRO da OneBitCode e estou aprimorando minhas habilidades linguísticas, estudando inglês na CCBEU.
-
-Com essa trajetória, busco expandir meu conhecimento e aplicar o que aprendo em projetos práticos e inovadores. Fique à vontade para explorar meus repositórios e acompanhar minha evolução! 😊
+Sempre com o objetivo de expandir meus horizontes, estou constantemente buscando novas formas de aplicar meu conhecimento em projetos inovadores e desafiadores. Este GitHub é onde compartilho parte dessa jornada!
 
 ---
 
-## 📚 Sobre Mim
-- 🎓 **Formação**: Técnico em Análise e Desenvolvimento de Sistemas pela ETEC
-- 💻 **Graduação**: FACENS - Análise e Desenvolvimento de Sistemas
-- 🌐 **Línguas**: Português e Inglês
-- 🎯 **Interesses**: Desenvolvimento de Sistemas, Arquitetura de Software e Novas Tecnologias
+## 🛠 **Tecnologias e Habilidades**
 
-## 🌐 Conecte-se Comigo
+**Linguagens**:
+- JavaScript
+- Java
+- Python
+- HTML5
+- CSS3
+
+**Frameworks e Ferramentas**:
+- **React** | **Node.js** | **Express**
+- **Git** | **GitHub**
+- **Visual Studio Code**
+- **Figma** (para protótipos e design de interfaces)
+
+**Outros Conhecimentos**:
+- Algoritmos e Estruturas de Dados
+- Arquitetura de Software
+- Testes Automatizados
+
+---
+
+## 💡 **Meu Objetivo**
+
+Atualmente, busco oportunidades profissionais e de estágio que me permitam aplicar minhas habilidades técnicas em **desenvolvimento de sistemas**, aprimorar minha expertise em **arquitetura de software**, e colaborar com equipes para criar soluções inovadoras. Estou sempre em busca de aprender e contribuir para o desenvolvimento tecnológico!
+
+---
+
+## 📈 **Estatísticas GitHub**
+
+<div>
+  <a href="https://github.com/AndrVsCoding">
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrVsCoding&layout=compact&langs_count=7&theme=radical"/>
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=AndrVsCoding&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  </a>
+</div>
+
+---
+
+## 📚 **Formação Acadêmica**
+
+- **Técnico em Análise e Desenvolvimento de Sistemas** - **ETEC**
+- **Graduação em Análise e Desenvolvimento de Sistemas** - **FACENS** (Bolsa Integral ProUni)
+
+---
+
+## 🌐 **Conecte-se Comigo**
 
 - [LinkedIn](https://www.linkedin.com/in/andr%C3%A9vsdias/)
 - [GitHub](https://github.com/AndrVsCoding)
-- Email: salesdias1207@gmail.com
+- 📧 **Email**: salesdias1207@gmail.com
 
 ---
 
-Sinta-se à vontade para explorar meus repositórios e projetos! 😊
-
+🔍 Explore meus projetos e sinta-se à vontade para compartilhar feedbacks! A troca de ideias é sempre bem-vinda! 😊
